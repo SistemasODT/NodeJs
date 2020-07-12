@@ -1,0 +1,15 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "1.0.0",
+  "description": "Seccion 5 del curso de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Perez Sanchez Decimo",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^3.1.2",
+    "yargs": "^15.3.1"
+  }
+}
